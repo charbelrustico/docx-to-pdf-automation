@@ -1,0 +1,34 @@
+# Documents locaux : ne jamais envoyer sur GitHub
+/word/
+/marques/
+/pdf/
+
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Fichiers temporaires des éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers temporaires Microsoft Word
+~$*.docx
+~$*.doc
+
+# Journaux
+*.log
+
+# Secrets et variables d'environnement
+.env
+.env.*
+
+# Fichiers système
+.DS_Store
+Thumbs.db
